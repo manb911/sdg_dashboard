@@ -1,0 +1,70 @@
+.bg-custom {
+    color: #FFFFFF;
+    /*background-color: #7777ff;*/
+    background-color: #0669b2;
+   
+}
+.operation-list{
+    text-align: center;
+}
+
+.content-area{
+    
+    padding-top: 5px;
+    margin: 0 auto;
+    width:80%;
+}
+
+#new-cases-content-area{
+    margin: 0 auto;
+    width:90%;
+}
+#brand-logo{
+    width: 80px;
+}
+.login-screen{
+	background-color:#09A8C8;
+}
+.login-screen-logo{
+	position: relative;
+	margin: 5% auto;
+	color: #FFFFFF;
+}
+.login-box{
+	width:300px;
+	position: relative;
+	margin: 10% auto;
+	padding: 15px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+.my-logo a{
+	color:#09A8C8;
+}
+.case-details{
+    /*width:90%;*/
+}
+.lfr-logo{
+    padding: 0px 0px 3px 0px;
+}
+.lfr-logo img{
+    width:120px;
+}
+.lfr-logo-in-report img{
+    width: 95px;
+}
+.details-tools-box{
+    float: right;
+}
+.rating-color-yellow{
+    color:yellow;
+}
+.rating-color-orange{
+    color: orange;
+}
+.rating-color-green{
+    color:green;
+}

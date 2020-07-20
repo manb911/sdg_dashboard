@@ -1,0 +1,60 @@
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(checkAuth.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(): Failed opening 'checkAuth.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seendigital/public_html/dashboard/index.php on line 47
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 15:56:50 Asia/Bangkok] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(checkAuth.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'checkAuth.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seendigital/public_html/dashboard/index.php on line 47
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 15:57:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(checkAuth.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(): Failed opening 'checkAuth.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seendigital/public_html/dashboard/index.php on line 47
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:06 Asia/Bangkok] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(checkAuth.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'checkAuth.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seendigital/public_html/dashboard/index.php on line 47
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(checkAuth.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'checkAuth.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 1
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 2
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 3
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  mysql_query(): A link to the server could not be established in /home/seendigital/public_html/dashboard/index.php on line 46
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/seendigital/public_html/dashboard/index.php on line 47
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/seendigital/public_html/dashboard/index.php on line 70
+[24-May-2019 16:56:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/seendigital/public_html/dashboard/index.php on line 70

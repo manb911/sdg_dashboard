@@ -1,0 +1,2 @@
+[26-Feb-2020 14:04:52 Asia/Bangkok] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seendigital/public_html/dashboard/PB190010/index.php:2) in /home/seendigital/public_html/dashboard/lib/checkAuth.php on line 3
+[26-Feb-2020 14:04:52 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seendigital/public_html/dashboard/lib/connect.php on line 6
